@@ -1,0 +1,13 @@
+{
+  "Name": "NPC_MOD_ARABELLA",
+  "Author": "Michael Olacsi",
+  "Description": "NPC Mod",
+  "Version": "1.0.0",
+  "UniqueID": "Author.Mod",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": [
+    "Nexus: "
+  ]
+}

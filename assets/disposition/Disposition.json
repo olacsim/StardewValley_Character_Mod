@@ -1,0 +1,11 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "data/NPCDispositions",
+      "Entries": {
+        "Arabella": "adult/polite/outgoing/positive/female/datable/null/Town/spring 23/Gus neice/Forest 25 10/Arabella"
+      }
+    }
+  ]
+}
