@@ -1,3 +1,6 @@
 {
-  "spring": "800 Forest 34 23 2/1030 Town 30 27 3/1300 Beach 10 12 3/1600 ArchaeologyHouse 18 18 0/1800 Saloon 40 17 2/2230 Forest 43 10 2"
+  "spring": "800 Forest 34 23 2/1030 Town 30 27 3/1300 Beach 10 12 3/1600 ArchaeologyHouse 18 18 0/1800 Saloon 40 17 2/2230 Forest 43 10 2",
+  "summer": "800 Forest 34 23 2/1030 Town 30 27 3/1300 Beach 10 12 3/1600 ArchaeologyHouse 18 18 0/1800 Saloon 40 17 2/2230 Forest 43 10 2",
+  "fall": "800 Forest 34 23 2/1030 Town 30 27 3/1300 Beach 10 12 3/1600 ArchaeologyHouse 18 18 0/1800 Saloon 40 17 2/2230 Forest 43 10 2",
+  "winter": "800 Forest 34 23 2/1030 Town 30 27 3/1300 Beach 10 12 3/1600 ArchaeologyHouse 18 18 0/1800 Saloon 40 17 2/2230 Forest 43 10 2"
 }
